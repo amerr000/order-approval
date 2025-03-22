@@ -19,7 +19,7 @@ This is a **Laravel-based Order Approval System** that allows users to **create 
 
 **Clone the repository**  
 ```sh
-git clone https://github.com/your-username/order-approval.git
+git clone https://github.com/amerr000/order-approval.git
 cd order-approval
 ```
 
